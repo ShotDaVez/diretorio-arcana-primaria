@@ -13,7 +13,7 @@
             "type": "JournalEntry",
             "label": "[AP] Guia do Aventureiro",
             "module": "ap-guia-aventureiro",
-            "path": "packs/world-ap-guia-do-aventureiro-1657241789291.db",
+            "path": "./packs/world-ap-guia-do-aventureiro-1657241789291.db",
             "name": "world-ap-guia-do-aventureiro-1657241789291"
         }
     ],
