@@ -1,4 +1,14 @@
 # diretorio-arcana-primaria
+
+<Material disponível>
+Introdução
+Capítulo 1
+Capítulo 2
+Capítulo 3
+
+Todos estão conforme o PDF do livro.
+
+
 Diretório do material gratuito para o sistema Arcana Primária.
 Para usar esse material é necessário seguir alguns passos, se fizer diferente não garanto seu funcionamento.
 Recomendo seguir os passos informados para que assim tanto eu quanto você, estarmos alinhados com as mesmas espectativas.
