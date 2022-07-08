@@ -7,16 +7,19 @@ Passo Um: Instale os seguintes módulos.
 Compendium Folders + Custom Journal e cria a mesa usando o DnD 5e.
 
 Passo Dois: fassa download do arquivo ou instale o manifesto, para assim ter o módulo disponível.
+
 Passo Três: dentro da sua mesa de jogo, ative os módulos Compendium Folders + Custom Journal.
+
 Passo Quatro: crie um Journal qualquer e selecione a opção ficha do lado direito superior, após isso, no campo "Padrão Ficha", altere para custom image e salve.
+
 Passo Cinco: no seu diretório dentro de Default, e abrindo ele vai ter a pasta [AP] Guia do Aventureiro.
+
 Passo FINAL: do lado de cada pasta tem uma setinha, selecione ele, marque todas as opçõe e aperte no sim, agora só ir no seu diário e aproveite.
 
 
-Galera, estou aprendo a usar e fazer tudo que estão presenciando comigo, deixo meu instagram @shotdavez para contato, dúvida ou ajuda.
+Galera vou continuar atualizando tudo que sair do Arcana Primária FREE, e isso vale o material criado pela comunidade.
 
 IMPORTANTE!!!!
+deixo meu instagram para contato @shotdavez, minha meta para os próximos dias antes de continuar atualizando seu conteúdo é facilitar o processo de instalação.
 
-Vou continuar atualizando com o material gratuito da comunidade e oficial, também irei atualizar esse processo criando um meio prático.
-
-Obrigado.
+Até.
