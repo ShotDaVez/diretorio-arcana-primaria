@@ -2,9 +2,9 @@
     "name": "ap-guia-aventureiro",
     "title": "Guia do Aventureiro #0101",
     "description": "Diretório do Guia do Aventureiro para Arcana Primária.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "library": "false",
-    "manifestPlusVersion": "0.0.2",
+    "manifestPlusVersion": "0.0.3",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "author": "@shotdavez",
@@ -27,6 +27,6 @@
             "manifest": "https://raw.githubusercontent.com/Fair-Strides/FVTT-Custom-Journal-Theming/v9-journals/module.json"
         }
     ],
-    "manifest": "https://shotdavez.duckdns.org/compendium2module/ap-guia-aventureiro/module.json",
-    "download": "https://shotdavez.duckdns.org/compendium2module/ap-guia-aventureiro/module-zip.txt"
+    "manifest": "https://github.com/ShotDaVez/releases/latest/download/module.json",
+    "download": "https://github.com/ShotDaVez/releases/download/latest/module.zip"
 }
