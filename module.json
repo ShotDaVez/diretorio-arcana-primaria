@@ -1,6 +1,6 @@
 {
     "name": "ap-guia-aventureiro",
-    "title": "Guia do Aventureiro #0101",
+    "title": "[AP] Guia do Aventureiro",
     "description": "Diretório do Guia do Aventureiro para Arcana Primária.",
     "version": "0.0.1",
     "library": "false",
@@ -25,6 +25,10 @@
         {
             "name": "custom-journal",
             "manifest": "https://raw.githubusercontent.com/Fair-Strides/FVTT-Custom-Journal-Theming/v9-journals/module.json"
+        },
+        {
+            "name": "lib-wrapper",
+            "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json"
         }
     ],
     "manifest": "https://github.com/ShotDaVez/releases/latest/download/module.json",
